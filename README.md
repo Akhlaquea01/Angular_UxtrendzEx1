@@ -1,3 +1,6 @@
+"noImplicitAny": false,
+"strictNullChecks":false,
+added these two lines in tsconfig.json to disable any and and array  para maeter pass null
 # UxTrendzExOne
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.1.
